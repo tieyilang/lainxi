@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1490357665 source:e:\文档文件\c语言\c语言项目\贪吃蛇\kuwenjian.c
+	<stdio.h>
+	<windows.h>
+	"kuwenjian.h"
+
+1490514149 source:e:\文档文件\c语言\c语言项目\贪吃蛇\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"kuwenjian.h"
+	"tanchishe.h"
+
+1490534380 source:e:\文档文件\c语言\c语言项目\贪吃蛇\tanchishe.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"tanchishe.h"
+
+1490519060 e:\文档文件\c语言\c语言项目\贪吃蛇\kuwenjian.h
+
+1490531450 e:\文档文件\c语言\c语言项目\贪吃蛇\tanchishe.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
